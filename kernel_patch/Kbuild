@@ -1,0 +1,2 @@
+obj-m := hid-brunnerff.o
+ccflags-y := -Idrivers/hid

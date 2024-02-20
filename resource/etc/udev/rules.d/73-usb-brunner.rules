@@ -1,0 +1,2 @@
+# CLS-P udev rule
+SUBSYSTEM=="usb", ACTION=="add", ATTR{idVendor}=="25bb", ATTR{idProduct}=="00d3", MODE:="0666"

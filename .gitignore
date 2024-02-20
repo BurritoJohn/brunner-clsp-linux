@@ -1,0 +1,18 @@
+# Common
+build/
+.vscode/
+.DS_Store
+*.bin
+*.log
+
+# C++
+*.o
+*.so
+*.dll
+*.exe
+*.out
+
+# Python
+__pycache__/
+dist/
+*.py[cod]
